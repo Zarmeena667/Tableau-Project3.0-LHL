@@ -56,7 +56,7 @@ It is hard to streamline data visualizations to one area when there are so many 
 
 
 ## Future Goals
-1. I want to connect Tableau with external sources to assess the relationship between wildlife strikes and migratory bird populations.
+1. I want to connect Tableau with other data sources/data sets to assess the relationship between wildlife strikes and migratory bird populations.
 2. I hope to create different dashboards using the same data set to discover other insights using other key features of the dataset.
 
 
