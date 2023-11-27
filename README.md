@@ -5,7 +5,8 @@ My project was aimed at studying the relationship and discovering the relationsh
 
 
 ## Process
-![image](https://github.com/Zarmeena667/Tableau-Project3-LHL/assets/145514413/566dc8b7-6c66-4087-a124-66029467a485)
+![image](https://github.com/Zarmeena667/Tableau-Project3.0-LHL/assets/145514413/9dd77646-b330-4707-a616-e9c7cfe4b6de)
+
 
 
 
@@ -29,7 +30,9 @@ Tableau tools used:
 ## Results
 Data Highlights
 
-![image](https://github.com/Zarmeena667/Tableau-Project3-LHL/assets/145514413/0aef3f71-833d-4711-af5f-87655acc945f)
+![image](https://github.com/Zarmeena667/Tableau-Project3.0-LHL/assets/145514413/cfa1cbfa-2904-4698-ac67-ef8ccee6a43e)
+
+
 
 I focused on discovering the relationship between impacted species, number of strikes, and cost incurred with the following questions: 
 
