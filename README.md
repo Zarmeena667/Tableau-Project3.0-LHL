@@ -46,12 +46,13 @@ I focused on discovering the relationship between impacted species, number of st
 
 
 I discovered the following insights: 
-1. California had the hihest number of cumulative wildlife strikes over the years.
-2. Birds have the highest collision strikes followed by Terrestrial mammals by a huge difference. 
+1. California had the highest number of cumulative wildlife strikes over the years.
+2. Birds have the highest collision strikes followed by Terrestrial mammals by a huge difference.
 3. Doves have been affected the most with the highest strike numbers.
-4. Canadian Goose had the most costly collisions with aircrafts.
-5. The most costly strikes happened in 2014 whereas the most costly year was 2009.
-6. The most costly phase of strike is the climb whereas most strikes happen in the approaching phase.
+4. Canadian Goose had the costliest collisions with aircrafts.
+5. The costliest strikes happened in 2014 whereas the costliest year was 2009.
+6. The costliest phase of strike is the climb whereas most strikes happen in the approaching phase.
+
 
 
 ## Challenges 
