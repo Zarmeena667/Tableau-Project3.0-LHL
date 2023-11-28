@@ -35,7 +35,7 @@ Data Highlights
 ## Main goal of analysis
 Looking at the data my first though was how can we reduce/minimize wildlife strikes. This made me want to study the relationship between impacted species and number of strikes. I also included costs incurred as a result of strikes because any effort towards minimizing wildlife strikes would have to involve airlines as stakeholders. 
 
-##Questions 
+## Questions 
 
 I focused on discovering the relationship between impacted species, number of strikes, and cost incurred with the following questions: 
 
