@@ -32,7 +32,10 @@ Data Highlights
 
 ![image](https://github.com/Zarmeena667/Tableau-Project3.0-LHL/assets/145514413/cfa1cbfa-2904-4698-ac67-ef8ccee6a43e)
 
+## Main goal of analysis
+Looking at the data my first though was how can we reduce/minimize wildlife strikes. This made me want to study the relationship between impacted species and number of strikes. I also included costs incurred as a result of strikes because any effort towards minimizing wildlife strikes would have to involve airlines as stakeholders. 
 
+##Questions 
 
 I focused on discovering the relationship between impacted species, number of strikes, and cost incurred with the following questions: 
 
